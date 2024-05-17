@@ -11,6 +11,6 @@ public class Utility {
 	
 	public void m1()
 	{
-		System.out.println("M1() of Utility class dsfskj");
-	}
+		System.out.println("M1() of Utility class and ----");
+    }
 }
