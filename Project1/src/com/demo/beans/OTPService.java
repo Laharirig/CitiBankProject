@@ -5,4 +5,8 @@ public class OTPService {
 	{
 		System.out.println("OTPService.getOTP()");
 	}
+	public String generateOTP() {
+		
+		return "";
+	}
 }
